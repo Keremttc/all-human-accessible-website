@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background: linear-gradient(0.25turn, #3A9ECA, #2B627A);
+    background: linear-gradient(0.25turn, #391fa1, #6A64BF); 
     color: #ffffff;
     font-size: 15px;
     }
@@ -30,8 +30,19 @@ main{
     grid-template-columns: auto auto auto;  */
     }
 
+input{
+    display: none;
+    }
+    
+label:hover,
+label:focus,
+label:active {
+    outline: 2px solid blue;
+    border-radius: 20%;
+    }
+
 img{
-    border: 3px solid #a8a8a8;
+    border: 3px solid #ffffff;
     border-radius: 5em;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     background: white;
@@ -49,7 +60,3 @@ p{
     text-align: center;
     }
 
-input{
-    display: none;
-    }
-    
