@@ -38,7 +38,7 @@ input{
 label:hover,
 label:focus,
 label:active {
-    outline: 2px solid blue;
+    outline: 5px solid rgb(251, 0, 255);
     border-radius: 20%;
     }
 
