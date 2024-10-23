@@ -13,7 +13,7 @@ De instructie van deze leertaak staat in [INSTRUCTIONS](https://github.com/fdnd-
 
 ## Beschrijving
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-Ik heb de opdracht gekregen om een kinderlijk project maken, genaamd TumiMundo. In het kort is TumiMundo een project om kinderen van 1 tm 5 ondersteuning te geven om twee talen te leren. Ik mocht vrij zijn in de pagina's die ik kon namaken. Vorige keer had ik de onboarding-buddy pagina gemaakt. Dit keer wou ik iets anders proberen en maakte daarom de select pagina. De select pagina is bestemd om jouw account te kiezen. Ook moet je jouw account kunnen editten en verwijderen.
+Ik heb de opdracht gekregen om een kinderlijk project maken, genaamd TumiMundo. In het kort is TumiMundo een project om kinderen van 1 tm 5 ondersteuning te geven om twee talen te leren. Ik mocht vrij zijn in de pagina's die ik kon namaken. Vorige keer had ik de onboarding-buddy pagina gemaakt. Dit keer wou ik iets anders proberen en maakte daarom de select pagina. De select pagina is bestemd om jouw account te kiezen. Ook moet je jouw account kunnen editten en verwijderen. Ik ben nog niet zo ver gekomen om het te kunnen verwijderen.
 
 Dit project is gemaakt met HTML en CSS. Verder staat hieronder nog een korte lijst met gebruikte tools en middelen.
  
