@@ -29,7 +29,8 @@ Dit project is gemaakt met HTML en CSS. Verder staat hieronder nog een korte lij
 <!-- Voeg een mooie poster visual toe 📸 -->
 Hierbij een foto. Mijn insteek was om eerst telefoon formaat te maken en daarna desktop. Desktop heb ik nog niet aan kunnen werken.
 
-![Screenshot 2024-10-23 105154](https://github.com/user-attachments/assets/4ae6814d-d9c7-499a-80b1-3939110f86ef)
+![image](https://github.com/user-attachments/assets/380e61cc-9448-4454-85ac-f84a2c94b47d)
+
 
 
 
