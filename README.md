@@ -19,7 +19,6 @@ Dit project is gemaakt met HTML en CSS. Verder staat hieronder nog een korte lij
  
 **Tools** 
 - 🖥️ VSCode
-- 📷 Photoshop
 - ✍️ Figma
  
 **Methodes en Technieken**
