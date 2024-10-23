@@ -20,8 +20,13 @@ h1{
     }
 
 
-h2{
-    text-align: end;
+button{
+    background-color: #1f62a1;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+    border-radius: 50px;
+    margin-left: 85%;
+    font-family: "Poppins", sans-serif;
+    color: white;
     }
 
     /* main */
@@ -32,15 +37,20 @@ main{
     }
 
 input{
-    display: none;
-    }
+    opacity: 0;
+   }
     
-label:hover,
+/* label:hover,
 label:focus,
 label:active {
     outline: 5px solid rgb(251, 0, 255);
     border-radius: 20%;
-    }
+    } */
+
+
+input:focus + img { /* Next sibling combinator */ 
+    outline: 10px solid darkblue;
+}
 
 img{
     border: 3px solid #ffffff;
@@ -49,14 +59,14 @@ img{
     background: white;
     }
 
-.grid{
+.profielen{
     /* border: 3px solid #ff0000; */
     display: grid;
     grid-template-columns: auto auto auto;
     padding: 2%;
     }   
 
-p{
+label{
     font-size: 24px;
     text-align: center;
     }
