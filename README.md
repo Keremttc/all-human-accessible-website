@@ -39,7 +39,8 @@ https://keremttc.github.io/all-human-accessible-website/
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 
-Ik heb voor mijn  HTML structuur een section gebruikt, waarbij je een account kan kiezen. Verder heb ik ook gebruik gemaakt van semantische HTML of terwijl mooie code. In mijn CSS heb ik gebruik gemaakt van Display:grid om structuur te geven aan mijn HTML. Ik heb ook gekeken naar color contrast, om te bekijken of de kleuren kloppen. Ik heb paar aanpasingen gemaakt om een toegankelijk pagina te maken.
+Ik heb voor mijn  HTML structuur een section gebruikt, waarbij je een account kan kiezen. Verder heb ik ook gebruik gemaakt van semantische HTML of terwijl mooie code. In mijn CSS heb ik gebruik gemaakt van Display:grid om structuur te geven aan mijn HTML. Verder heb ik de regel code input:focus + img { toegvoegd. Dit heb ik gedaan om het ook te functional te maken  voor mensen met een beperking
+Ik heb ook gekeken naar color contrast, om te bekijken of de kleuren kloppen. Ik heb paar aanpasingen gemaakt om een toegankelijk pagina te maken.
 
 
 
